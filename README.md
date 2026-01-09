@@ -90,7 +90,7 @@ src="https://camo.githubusercontent.com/ef5a4a2d3e2478a0304b5dafa2b4230ea07d1efa
 
 ---
 
-### 🧰 Tools & Others
+### 🧰 Tools
 <table align="center">
 <td align="center" style="border:none; padding:5px;">
       <a href="https://git-scm.com/" target="_blank">
