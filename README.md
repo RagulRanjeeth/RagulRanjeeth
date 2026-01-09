@@ -130,14 +130,4 @@ src="https://camo.githubusercontent.com/ef5a4a2d3e2478a0304b5dafa2b4230ea07d1efa
 
 -----
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/RagulRanjeeth/RagulRanjeeth/blob/output/github-snake-dark.svg">
-  <img alt="snake animation"
-       src="https://github.com/RagulRanjeeth/RagulRanjeeth/blob/output/github-snake.svg">
-</picture>
-
----
-
 ⭐ *Code with clarity. Build with purpose. Keep learning.*
